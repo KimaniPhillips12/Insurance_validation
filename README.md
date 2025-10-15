@@ -23,3 +23,6 @@ This project involves cleaning and preprocessing a dataset to prepare it for ana
    - Ensured the `charges` column is of float type for accurate numerical analysis.
 
 This cleaned dataset is now ready for further exploration and modeling.
+
+7.**
+Scatterplots were then create and between charges and each variables
