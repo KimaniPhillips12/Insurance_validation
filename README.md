@@ -24,5 +24,6 @@ This project involves cleaning and preprocessing a dataset to prepare it for ana
 
 This cleaned dataset is now ready for further exploration and modeling.
 
-7.**
-Scatterplots were then create and between charges and each variables
+7.**Relationships between variables & charges**
+   -Scatterplots were then create and between charges and each variables.
+   
