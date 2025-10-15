@@ -1,4 +1,4 @@
-# Data Cleaning Project
+# HealthCost Insights
 
 This project involves cleaning and preprocessing a dataset to prepare it for analysis. The following steps were performed:
 
@@ -24,9 +24,10 @@ This project involves cleaning and preprocessing a dataset to prepare it for ana
 
 This cleaned dataset is now ready for further exploration and modeling.
 
-7.**Relationships between variables & charges**
+7. **Relationships between variables & charges**
    -Scatterplots were then create and between charges and each variables.
 
 8. **Linear Regression Modeling on Insurance Charges**
    -This section of the project focuses on building and evaluating a Linear Regression model to predict medical insurance charges based on various features.
+
    
